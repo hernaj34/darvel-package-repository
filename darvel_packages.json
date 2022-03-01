@@ -1,0 +1,10 @@
+{
+    "darvel.core": {
+        "name": "Darvel Core",
+        "remote": "https://github.com/hernaj34/darvel-core.git"
+    },
+    "darvel.test": {
+        "name": "Darvel Test",
+        "remote": "https://github.com/hernaj34/darvel-package-test.git"
+    }
+}
